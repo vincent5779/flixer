@@ -21,7 +21,7 @@ Flixer is an app that allows users to browse movies from the [The Movie Database
 
 ### App Walkthrough GIF
 
-<img src= ![hippo](http://i.imgur.com/hlANvHVh.gif) width=250><br>
+![hippo](http://i.imgur.com/hlANvHVh.gif)
 
 ### Notes
 Describe any challenges encountered while building the app.
