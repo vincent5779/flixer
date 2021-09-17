@@ -1,14 +1,14 @@
 //
-//  MovieDetailsViewController.swift
+//  MovieGridDetailViewController.swift
 //  flixer
 //
-//  Created by Hew, Vincent on 9/15/21.
+//  Created by Hew, Vincent on 9/17/21.
 //
 
 import UIKit
 import AlamofireImage
 
-class MovieDetailsViewController: UIViewController {
+class MovieGridDetailViewController: UIViewController {
     @IBOutlet weak var backdropView: UIImageView!
     @IBOutlet weak var posterView: UIImageView!
     @IBOutlet weak var titleLabel: UILabel!
